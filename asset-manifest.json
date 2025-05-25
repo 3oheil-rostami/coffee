@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30131739.css",
+    "main.js": "/static/js/main.f4fc05cc.js",
+    "static/media/Lalezar.ttf": "/static/media/Lalezar.241ca811c53de4ed36a4.ttf",
+    "static/media/Yekan.ttf": "/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "index.html": "/index.html",
+    "main.30131739.css.map": "/static/css/main.30131739.css.map",
+    "main.f4fc05cc.js.map": "/static/js/main.f4fc05cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30131739.css",
+    "static/js/main.f4fc05cc.js"
+  ]
+}
